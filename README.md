@@ -79,4 +79,4 @@ Navigation buttons allow users to move between the dashboard pages.
 ## Author
 
 Bhushan Mandekar  
-NDT Level II Engineer | Aspiring Data Analyst
+Aspiring Data Analyst
